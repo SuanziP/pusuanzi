@@ -1,2 +1,2 @@
 # pusuanzi
-i use repository to do some test
+i use this repository to do some test
